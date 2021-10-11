@@ -5,7 +5,8 @@
   },
   "rules": {
     "@typescript-eslint/strict-boolean-expressions": "off",
-    "@typescript-eslint/return-await": "off"
+    "@typescript-eslint/return-await": "off",
+    "@typescript-eslint/space-before-function-paren": "off"
   },
   "ignorePatterns": ["**/assets/**"]
 }
